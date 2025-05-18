@@ -1,9 +1,9 @@
 # S&P 500 Market Pulse
 
 ## 🎯 Project Goal:
-Summarize the overall year on year performance of S&P 500 Index
-Consistently strong-performing stocks to be considered for long term investment
-Investment overview based on industries and sectors in S&P 500 Index
+- Summarize the overall year on year performance of S&P 500 Index
+- Suggest consistently strong-performing stocks to be considered for long term investment
+- Provide an investment overview based on industries and sectors in S&P 500 Index
 
 
 ## 📁 Files Included
