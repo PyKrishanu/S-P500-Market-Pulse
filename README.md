@@ -8,8 +8,8 @@ Investment overview based on industries and sectors in S&P 500 Index
 
 ## 📁 Files Included
 <a href="https://github.com/PyKrishanu/S-P500-Market-Pulse/blob/main/S%26P%20500%20Stock.pbix">PBIX</a>
-<a href="https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks">Dataset</a>
 <a href="https://github.com/PyKrishanu/S-P500-Market-Pulse/blob/main/S%26P%20500%20Pulse%20Model%20View.jpg">Model view</a>
+<a href="https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks">Dataset</a>
 
 ## 📊 𝐖𝐡𝐚𝐭 𝐢𝐭 𝐫𝐞𝐯𝐞𝐚𝐥𝐬:
 ✅ Sum of S&P 500 index by Year
