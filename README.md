@@ -12,11 +12,11 @@
 <a href="https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks">Dataset</a>
 
 ## 📊 𝐖𝐡𝐚𝐭 𝐢𝐭 𝐫𝐞𝐯𝐞𝐚𝐥𝐬:
-✅ Sum of S&P 500 index by Year
-✅ Top Performing Industries in S&P 500 by Year
-✅ Top 3 Stocks over the last 8 years based on average of adj close price
-✅ Stock performance as per S&P 500 index
-✅ S&P 500 Sector Weighting 
+- ✅ Sum of S&P 500 index by Year
+- ✅ Top Performing Industries in S&P 500 by Year
+- ✅ Top 3 Stocks over the last 8 years based on average of adj close price
+- ✅ Stock performance as per S&P 500 index
+- ✅ S&P 500 Sector Weighting 
 
 - ## 📊 Dashboard Preview
  <a href="https://github.com/PyKrishanu/S-P500-Market-Pulse/blob/main/S%26P%20500%20Pulse%20Dashboard.jpg">Dashboard</a>
