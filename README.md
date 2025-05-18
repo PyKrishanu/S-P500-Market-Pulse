@@ -18,7 +18,7 @@
 - ✅ Stock performance as per S&P 500 index
 - ✅ S&P 500 Sector Weighting 
 
-- ## 📊 Dashboard Preview
+ ## 📊 Dashboard Preview
  <a href="https://github.com/PyKrishanu/S-P500-Market-Pulse/blob/main/S%26P%20500%20Pulse%20Dashboard.jpg">Dashboard</a>
 
 💡 Tools & Skills Used:
